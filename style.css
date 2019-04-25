@@ -1,0 +1,282 @@
+.menu1{
+    display: flex;
+    
+    
+}
+.menu{
+    width: 60%;
+    
+    color: #6d7a8b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    border: 1px solid #efefef;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    
+}
+.wistia-logo{
+    width: 20%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    align-items: center;
+    
+
+}
+.btn1{
+    
+    background: transparent;
+    color: blue;
+}
+.btn2{
+    
+    background: transparent;
+}
+    
+
+.line1{
+    
+    display: flex;
+    align-items: center;
+
+}
+.line2{
+    background-color: #f9f9f9;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    
+}
+.liste{
+    list-style-type:none;
+    display: flex;
+    
+}
+li a{
+    padding: 2px;
+    text-decoration: none;
+}
+.liste li{
+    padding: 3px;
+}
+.s1{
+    
+    display: flex;
+    border: 1px thin rgb(7, 7, 7); 
+    justify-content: center;
+    align-items: center;
+    background-color: #cd9aa4;
+    margin-top: -1px;
+    
+}
+.bloc1{
+    width: 50%;
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+      
+}
+.bloc2{
+    width: 50%;
+    height: 35%;
+      
+}
+.l1{
+    font-family: "Walsheim", sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}
+.l2{
+    font-family: "Walsheim", sans-serif;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btns1{
+    border-radius: 5px;
+    background-color: white;
+    height: 70px;
+    border: 1px solid #EFEFEF;
+    width: 170px;
+    margin-right: 130px;
+    font-family: "Walsheim", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.labell{
+    margin-right: 50px;
+}
+.s2{
+    display: flex;
+    
+    justify-content: center;
+    
+   
+}
+.block1{
+    background-color: #fed24a;
+    width:33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.block2{
+    background-color: #51c29f;
+    width:33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.block3{
+    background-color: #3ea9f5;
+    width:33.3%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-right: 40%;
+}
+.pb1{
+    margin-right: 10%; 
+}
+.pb2{
+    margin-right: 23%; 
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-right: 45%;
+}
+.btnbl1{
+    margin-right:30%;
+}
+.btnbl3{
+    margin-top:4%;
+    margin-right:30%;
+}
+.ls1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    
+}
+.ps3{
+    color: #afb9c5;
+    font-family: "Walsheim", sans-serif;
+    font-size: 17px;
+}
+.ls2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+h3{
+    color: #363945;
+    font-family: "Walsheim", sans-serif;
+}
+.pls2{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #363945;    
+}
+
+.f1{
+    background-color:#e8e7e6;
+    border: 1px solid #e8e7e6;
+    margin-top: 1%;
+    
+}
+.f11{
+    text-align: center;
+    color: #777777;
+    font-size: 18px;
+}
+.f2{
+    
+    background-color: #2a2d35;
+    border: 1px solid  #2a2d35;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.lf2{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style-type:none;
+}
+.pf11{
+    font-family: "Walsheim", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    margin-top: 10%;
+}
+.lifirst{
+    color: white;
+}
+.follow{
+    display: flex;
+    align-items: center;
+}
+.follow1{
+    color: white;
+}
+footer li{
+    color: grey;
+    font-weight: bold;
+}
+footer .follow a{
+color:#217AD5;
+font-family: "Walsheim", sans-serif;
+font-size:14px;
+}
+footer .follow a:link{
+    text-decoration: none;
+}
+footer .follow a:hover{
+    text-decoration: underline;
+}
+
+.hr1{
+    margin-left: 5%;
+   margin-right: 5%;
+}
+.pp1{
+    text-align: center;
+    color: #b2b9c1;
+    font-family: "Walsheim", sans-serif;
+    font-size: 17px;
+}
+footer .lifirst a{
+    color: grey;
+    font-family: "Walsheim", sans-serif;
+    font-size:14px;
+    }
+    footer .lifirst a:link{
+        text-decoration: none;
+    }
+    footer .lifirst a:hover{
+        text-decoration: underline;
+    }
